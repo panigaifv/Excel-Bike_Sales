@@ -1,5 +1,7 @@
 Projeto de Análise de Dados referente à vendas de Bikes
 
+<img width="1198" height="544" alt="image" src="https://github.com/user-attachments/assets/32c36413-5d15-4135-92b9-d1f5057a0fe2" />
+
 Este projeto foi realizado com base no curso de Excel disponível no canal do YouTube Alex The Analyst, conforme os links abaixo:
 
 https://www.youtube.com/@AlexTheAnalyst
